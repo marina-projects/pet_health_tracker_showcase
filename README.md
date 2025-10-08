@@ -1,6 +1,7 @@
 # Happy Pet. Health tracker
 
 **An interactive web application for pet owners**
+[Live Demo on Netlify](https://pet-health-tracker.netlify.app/)
 
 ---
 
@@ -8,7 +9,7 @@
 
 ---
 
-[Live Demo on Netlify](https://pet-health-tracker.netlify.app/)
+
 
 > Helping pet owners track their pets development, vaccinations, treatments and other events. Designed with care and attention to details.  
 > Built with **React, Redux, and Firebase**, featuring a responsive UI and a scalable architecture ready for mobile expansion with React Native.
