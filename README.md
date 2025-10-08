@@ -90,11 +90,11 @@ Novi Sad, Serbia
 
 ## Screenshots
 <div>
-  <img src="/src/images/screenshots/mobile_registration.png" alt="Mobile registration screen" width="25%">
-  <img src="/src/images/screenshots/mobile_pets.png" alt="Mobile pets list" width="25%">
-  <img src="/src/images/screenshots/mobile_events.png" alt="Mobile events screen" width="25%">
+  <img src="/screenshots/mobile_registration.png" alt="Mobile registration screen" width="25%">
+  <img src="/screenshots/mobile_pets.png" alt="Mobile pets list" width="25%">
+  <img src="/screenshots/mobile_events.png" alt="Mobile events screen" width="25%">
   <br><br>
-  <img src="/src/images/screenshots/desktop_add_event.png" alt="Desktop add event screen" width="75%">
+  <img src="/screenshots/desktop_add_event.png" alt="Desktop add event screen" width="75%">
 </div>
 
 
