@@ -2,6 +2,8 @@
 
 **An interactive web application for pet owners**
 
+This is a documentation-only repository. Source code is private. For code review access, please contact me: marina.simaganova@gmail.com
+
 [Live Demo on Netlify](https://pet-health-tracker.netlify.app/)
 
 > Helping pet owners track their pets development, vaccinations, treatments and other events. Designed with care and attention to details.  
