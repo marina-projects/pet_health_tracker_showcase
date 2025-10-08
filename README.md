@@ -2,18 +2,14 @@
 
 **An interactive web application for pet owners**
 
+> Helping pet owners track their pets development, vaccinations, treatments and other events. Designed with care and attention to details.  
+> Built with **React, Redux, and Firebase**, featuring a responsive UI and a scalable architecture ready for mobile expansion with React Native.
+
 [Live Demo on Netlify](https://pet-health-tracker.netlify.app/)
 
 ---
 
 *This is a documentation-only repository. Source code is private. For code review access, please contact me: marina.simaganova@gmail.com*
-
----
-
-
-
-> Helping pet owners track their pets development, vaccinations, treatments and other events. Designed with care and attention to details.  
-> Built with **React, Redux, and Firebase**, featuring a responsive UI and a scalable architecture ready for mobile expansion with React Native.
 
 ---
 
