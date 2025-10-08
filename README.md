@@ -1,6 +1,7 @@
 # Happy Pet. Health tracker
 
 **An interactive web application for pet owners**
+
 [Live Demo on Netlify](https://pet-health-tracker.netlify.app/)
 
 ---
